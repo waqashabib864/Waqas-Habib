@@ -1,0 +1,5 @@
+{
+  "name": "Lucky Cement Strength Predictor",
+  "description": "Interactive dashboard for predicting 28-day compressive strength of cement based on chemical and physical parameters.",
+  "requestFramePermissions": []
+}
